@@ -144,7 +144,7 @@ The seminar is **open to everyone** (students, PhD candidates, researchers, coll
 
 # Contact
 
-For any question, please write to the organizers (see below).
+For any question, please write to the organizers.
 
 # Organizers
 
