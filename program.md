@@ -9,39 +9,104 @@ layout: page
 
 # Program
 
-## IJN Session Fall 2025: [Alexander Paseau (Oxford University)](https://www.philosophy.ox.ac.uk/people/alexander-paseau) - _September 30, 11AM_
+## Session 1 — IECL — _Friday, March 6, 2026_
 
-**Title: _The Euclidean programme_**
+### Talk
 
-**Abstract:** The Euclidean Programme embodies a traditional sort of epistemological foundationalism, according to which knowledge—especially mathematical knowledge—is obtained by deduction from self-evident axioms or first principles.  This talk, based on my book of the same name with Wesley Wrigley, will offer a detailed examination of Euclidean foundationalism, which, following Lakatos, we call the Euclidean Programme. In the talk, I will rationally reconstruct the programme’s key principles, showing it to be an epistemological interpretation of the axiomatic method. I will then assess the programme, exploring whether various areas of contemporary mathematics conform to it. 
+**Speaker:** Patrick Massot (Laboratoire de mathématique d’Orsay)  
+**Title: _Pourquoi raconter des maths aux ordinateurs ?_**
 
-**Location:** Salle de réunion de l’Institut Jean Nicod, Rez-de-chaussé, Pavillon Jardin, 29 rue d’Ulm, 75005 Paris
+**Abstract:** _TBA_
 
-**Further reading:** No reading is required prior to the talk. However, if you would like to prepare for the talk or go deeper afterwards, you may consult:
 
-Alexander Paseau and Wesley Wrigley (2024). [_The Euclidean Programme_](https://www.cambridge.org/core/books/euclidean-programme/EA733F22CAE537D1A42A8EF904600EEA), Cambridge University Press, Cambridge.
+### Practice Session
 
-<div style="margin: 50px;"></div>
+Introduction à l’assistant de preuve Lean par la pratique animée par Patrick Massot.
 
-## AHP Session Fall 2025: [Sean Walsh (UCLA)](https://philosophy.ucla.edu/person/sean-walsh/) - _November 4, 2PM_
-
-**Title: _TBA_**
-
-**Abstract: _TBA_**
-
-**Location: _TBA_**
+**Location:** IECL (details TBA)
 
 <div style="margin: 50px;"></div>
 
-## IHPST Session Fall 2025: [Aybüke Özgün (ILLC, University of Amsterdam)](https://sites.google.com/site/ozgunaybuke/) - _December 3, 11PM_
+---
 
-**Title: _TBA_**
+## Session 2 — IECL — _Friday, March 13, 2026_
 
-**Abstract: _TBA_**
+### Talk
 
-**Location: _TBA_**
+**Speaker:** Sophie Tourret (Loria)  
+**Title:** _L'automatisation dans les assistants de preuve_
+
+**Abstract:** _TBA_
+
+
+### Practice Session “Math in LEAN” 
+
+The goal of the practice session is to initiate formalization projects with advice from experienced proof assistant users.
+
+**Location:** IECL (details TBA)
 
 <div style="margin: 50px;"></div>
+
+---
+
+## Session 3 — _Date & place TBA_ (between March 20 and April 10, 2026)
+
+### Talk
+
+**First Speaker:** Antoine Chambert-Loir (Institut de mathématique de Jussieu – Paris Rive Gauche)  
+**Title:** _TBA_
+
+**Abstract:** _TBA_
+
+
+**Second Speaker:** Yacin Hamami (Archives Henri-Poincaré)  
+**Title:** _Philosophical conceptions of mathematical rigor_
+
+**Abstract:** _TBA_
+
+### Practice Session “Math in LEAN” 
+
+Continuation of the previous practice session.
+
+**Location:** TBA
+
+<div style="margin: 50px;"></div>
+
+---
+
+## Session 4 — TBA - _Friday, April 3, 2026_
+
+### Talks
+
+**First Speaker:** [Baptiste Mélès (Archives Henri-Poincaré)](http://baptiste.meles.free.fr/)  
+**Title:** _TBA_
+
+**Abstract:** _TBA_
+
+**Second Speaker:** [Philippe de Groote (Loria)](https://members.loria.fr/PdeGroote/)
+**Title:** _TBA_
+
+**Abstract:** _TBA_
+
+### Round Table
+
+**Location:** _TBA_
+
+<div style="margin: 50px;"></div>
+
+---
+
+## Session 5 — TBA - _TBA_
+
+<div style="margin: 50px;"></div>
+
+---
+
+## Session 6 — TBA - _TBA_
+
+<div style="margin: 50px;"></div>
+
+---
 
 
 # Organizers

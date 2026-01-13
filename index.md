@@ -10,17 +10,19 @@ layout: page
 ---
 
 
-The seminar _**Reflexions**_ is a new joint seminar between the [Institut Élie Cartan de Lorraine (IECL)](https://iecl.univ-lorraine.fr/), the [Archives Henri-Poincaré (AHP)](https://poincare.univ-lorraine.fr/), and the [Lorraine Research Laboratory in Computer Science and its Applications (Loria)](https://www.loria.fr/en/).
+The seminar _**Reflexions**_ is a new joint seminar between the [Institut Élie Cartan de Lorraine (IECL)](https://iecl.univ-lorraine.fr/), the [Archives Henri-Poincaré (AHP)](https://poincare.univ-lorraine.fr/), and the [Lorraine Research Laboratory in Computer Science and its Applications (Loria)](https://www.loria.fr/en/) at the [Université de Lorraine](https://www.univ-lorraine.fr/).
 
 It consists of **general-interest talks and activities** intended for a broad audience, centered on a **single yearly theme**. The theme is chosen for its common interest to members of our three institutes, and for its potential to foster exchanges of ideas and viewpoints across backgrounds.
 
-The theme for the **Spring 2026** is _**Proofs, rigor, and formalization**_.
+> The theme for the **Spring 2026** is _**Proofs, rigor, and formalization**_.
 
 In the past few years, **proof assistants** have generated intense interest and curiosity among mathematicians and philosophers. By proof assistants, we mean computer-assisted tools for the **verification of classical proofs**. What are these tools? How do they work? What are their strengths and weaknesses? What impact can they have on the practice of mathematical proofs, and on our conceptions of the notion of **rigor** in mathematics?
 
 These and related questions will be discussed through **talks**, **practice sessions**, **discussion sessions**, and more.
 
-We shall meet **six Friday afternoons during the first semester 2026**. Below is the program for the **first four sessions**. The next sessions will be held **after May 15** and will be announced soon.
+We shall meet **six Friday afternoons during the first semester of 2026**. Below is the program for the **first four sessions**. The next sessions will be held **after May 15** and will be announced soon.
+
+<div style="margin: 50px;"></div>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; align-items: center; margin: -40px;"> 
   <img src="assets/img/AHP-logo.png" alt="AHP" width="120" style="padding:10px;" />
@@ -31,7 +33,7 @@ We shall meet **six Friday afternoons during the first semester 2026**. Below is
 </div>
 
 
-<div style="margin: 40px;"></div>
+<div style="margin: 50px;"></div>
 
 ---
 
@@ -39,7 +41,7 @@ We shall meet **six Friday afternoons during the first semester 2026**. Below is
 
 ### Talk
 
-**Speaker:** Patrick Massot (Laboratoire de mathématique d’Orsay)  
+**Speaker:** [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (Laboratoire de mathématique d’Orsay)  
 **Title: _Pourquoi raconter des maths aux ordinateurs ?_**
 
 **Abstract:** _TBA_
@@ -59,8 +61,8 @@ Introduction à l’assistant de preuve Lean par la pratique animée par Patri
 
 ### Talk
 
-**Speaker:** Sophie Tourret (Loria)  
-**Title:** _L'automatisation dans les assistants de preuve_
+**Speaker:** [Sophie Tourret](https://members.loria.fr/sophie.tourret/) (Loria)  
+**Title: _L'automatisation dans les assistants de preuve_**
 
 **Abstract:** _TBA_
 
@@ -79,14 +81,14 @@ The goal of the practice session is to initiate formalization projects with advi
 
 ### Talk
 
-**First Speaker:** Antoine Chambert-Loir (Institut de mathématique de Jussieu – Paris Rive Gauche)  
+**First Speaker:** [Antoine Chambert-Loir](https://webusers.imj-prg.fr/~antoine.chambert-loir/index.xhtml) (Institut de mathématique de Jussieu – Paris Rive Gauche)  
 **Title:** _TBA_
 
 **Abstract:** _TBA_
 
 
-**Second Speaker:** Yacin Hamami (Archives Henri-Poincaré)  
-**Title:** _Philosophical conceptions of mathematical rigor_
+**Second Speaker:** [Yacin Hamami](https://www.yacinhamami.com/) (Archives Henri-Poincaré)  
+**Title: _Philosophical conceptions of mathematical rigor_**
 
 **Abstract:** _TBA_
 
@@ -104,12 +106,12 @@ Continuation of the previous practice session.
 
 ### Talks
 
-**First Speaker:** [Baptiste Mélès (Archives Henri-Poincaré)](http://baptiste.meles.free.fr/)  
+**First Speaker:** [Baptiste Mélès](http://baptiste.meles.free.fr/) (Archives Henri-Poincaré) 
 **Title:** _TBA_
 
 **Abstract:** _TBA_
 
-**Second Speaker:** [Philippe de Groote (Loria)](https://members.loria.fr/PdeGroote/)
+**Second Speaker:** [Philippe de Groote](https://members.loria.fr/PdeGroote/) ((Loria))
 **Title:** _TBA_
 
 **Abstract:** _TBA_
@@ -139,7 +141,6 @@ Continuation of the previous practice session.
 
 The seminar is **open to everyone** (students, PhD candidates, researchers, colleagues from neighboring disciplines, etc.).
 
-Please do not hesitate to contact us if you have any question or remark, or simply if you wish to express your interest (or contempt): such feedback would be quite helpful in planning the first sessions.
 
 # Contact
 
@@ -154,9 +155,9 @@ For any question, please write to the organizers (see below).
 
 <div style="margin: 40px;"></div>
 
----
+# Acknowledgement and Support
 
-## Logos (optional)
+_**Reflexions**_ is funded by the [Institut Élie Cartan de Lorraine (IECL)](https://iecl.univ-lorraine.fr/), the [Archives Henri-Poincaré (AHP)](https://poincare.univ-lorraine.fr/), and the [Lorraine Research Laboratory in Computer Science and its Applications (Loria)](https://www.loria.fr/en/).
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; align-items: center;">
   <img src="assets/img/AHP-logo.png" alt="AHP" width="120" style="padding:10px;" />

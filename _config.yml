@@ -1,4 +1,4 @@
-title: " Paris-Nancy Colloquium in Logic and the Philosophy of Mathematics"
+title: " “Reflexions”: An Interdisciplinary Seminar Bridging Mathematics, Philosophy and Computer Science"
 author: "Blog Author"
 description: "Powered by Jekyll + GitHub Pages + Contrast"
 permalink: /:title/
@@ -22,7 +22,7 @@ navigation: # accepts {file, title, url, icon, sidebaricon}
 
 external: # shows a footer with social links - for available icons see fontawesome.com/icons
   - { title: Mail, icon: envelope, url: "mailto:yacin.hamami@univ-lorraine.fr" }
-  - { title: Github, icon: github, url: "https://github.com/yhamami" }
+  - { title: Github, icon: github, url: "https://github.com/reflexions-ul" }
 #  - { title: Subscribe, icon: rss, url: "/feed.xml" }
 
 comments:
