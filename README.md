@@ -1,1 +1,3 @@
-# social-epist-math-workshop
+# About
+
+This is the website for the seminar Reflexions.
