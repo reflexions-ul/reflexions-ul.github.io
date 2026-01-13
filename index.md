@@ -1,0 +1,167 @@
+---
+title: "About"
+layout: page
+---
+
+![title](/assets/img/nancy-3.jpg){:style="display:block; margin-left:auto; margin-right:auto" width="800"}
+
+<div style="margin: 50px;"></div>
+
+---
+
+
+The seminar _**Reflexions**_ is a new joint seminar between the [Institut Élie Cartan de Lorraine (IECL)](https://iecl.univ-lorraine.fr/), the [Archives Henri-Poincaré (AHP)](https://poincare.univ-lorraine.fr/), and the [Lorraine Research Laboratory in Computer Science and its Applications (Loria)](https://www.loria.fr/en/).
+
+It consists of **general-interest talks and activities** intended for a broad audience, centered on a **single yearly theme**. The theme is chosen for its common interest to members of our three institutes, and for its potential to foster exchanges of ideas and viewpoints across backgrounds.
+
+The theme for the **Spring 2026** is _**Proofs, rigor, and formalization**_.
+
+In the past few years, **proof assistants** have generated intense interest and curiosity among mathematicians and philosophers. By proof assistants, we mean computer-assisted tools for the **verification of classical proofs**. What are these tools? How do they work? What are their strengths and weaknesses? What impact can they have on the practice of mathematical proofs, and on our conceptions of the notion of **rigor** in mathematics?
+
+These and related questions will be discussed through **talks**, **practice sessions**, **discussion sessions**, and more.
+
+We shall meet **six Friday afternoons during the first semester 2026**. Below is the program for the **first four sessions**. The next sessions will be held **after May 15** and will be announced soon.
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; align-items: center; margin: -40px;"> 
+  <img src="assets/img/AHP-logo.png" alt="AHP" width="120" style="padding:10px;" />
+  <img src="assets/img/IECL-logo.png" alt="IECL" width="120" style="padding:10px;" />
+  <img src="assets/img/Loria-logo.jpg" alt="Loria" width="120" style="padding:10px;" />
+  <img src="assets/img/CNRS-logo.png" alt="CNRS" width="80" style="padding:10px;" />
+  <img src="assets/img/UL-logo.png" alt="UL" width="100" style="padding:10px;" />
+</div>
+
+
+<div style="margin: 40px;"></div>
+
+---
+
+## Session 1 — IECL — _Friday, March 6, 2026_
+
+### Talk
+
+**Speaker:** Patrick Massot (Laboratoire de mathématique d’Orsay)  
+**Title: _Pourquoi raconter des maths aux ordinateurs ?_**
+
+**Abstract:** _TBA_
+
+
+### Practice Session
+
+Introduction à l’assistant de preuve Lean par la pratique animée par Patrick Massot.
+
+**Location:** IECL (details TBA)
+
+<div style="margin: 50px;"></div>
+
+---
+
+## Session 2 — IECL — _Friday, March 13, 2026_
+
+### Talk
+
+**Speaker:** Sophie Tourret (Loria)  
+**Title:** _L'automatisation dans les assistants de preuve_
+
+**Abstract:** _TBA_
+
+
+### Practice Session “Math in LEAN” 
+
+The goal of the practice session is to initiate formalization projects with advice from experienced proof assistant users.
+
+**Location:** IECL (details TBA)
+
+<div style="margin: 50px;"></div>
+
+---
+
+## Session 3 — _Date & place TBA_ (between March 20 and April 10, 2026)
+
+### Talk
+
+**First Speaker:** Antoine Chambert-Loir (Institut de mathématique de Jussieu – Paris Rive Gauche)  
+**Title:** _TBA_
+
+**Abstract:** _TBA_
+
+
+**Second Speaker:** Yacin Hamami (Archives Henri-Poincaré)  
+**Title:** _Philosophical conceptions of mathematical rigor_
+
+**Abstract:** _TBA_
+
+### Practice Session “Math in LEAN” 
+
+Continuation of the previous practice session.
+
+**Location:** TBA
+
+<div style="margin: 50px;"></div>
+
+---
+
+## Session 4 — TBA - _Friday, April 3, 2026_
+
+### Talks
+
+**First Speaker:** [Baptiste Mélès (Archives Henri-Poincaré)](http://baptiste.meles.free.fr/)  
+**Title:** _TBA_
+
+**Abstract:** _TBA_
+
+**Second Speaker:** [Philippe de Groote (Loria)](https://members.loria.fr/PdeGroote/)
+**Title:** _TBA_
+
+**Abstract:** _TBA_
+
+### Round Table
+
+**Location:** _TBA_
+
+<div style="margin: 50px;"></div>
+
+---
+
+## Session 5 — TBA - _TBA_
+
+<div style="margin: 50px;"></div>
+
+---
+
+## Session 6 — TBA - _TBA_
+
+<div style="margin: 50px;"></div>
+
+---
+
+
+# Participation
+
+The seminar is **open to everyone** (students, PhD candidates, researchers, colleagues from neighboring disciplines, etc.).
+
+Please do not hesitate to contact us if you have any question or remark, or simply if you wish to express your interest (or contempt): such feedback would be quite helpful in planning the first sessions.
+
+# Contact
+
+For any question, please write to the organizers (see below).
+
+# Organizers
+
+- [Yacin Hamami](https://www.yacinhamami.com/) (AHP)
+- [Alexandre Afgoustidis](https://afgoustidis.perso.math.cnrs.fr/) (IECL)
+- [Alain Genestier](https://iecl.univ-lorraine.fr/membre-iecl/genestier-alain/) (IECL)
+- [Sophie Tourret](https://members.loria.fr/sophie.tourret/) (Loria)
+
+<div style="margin: 40px;"></div>
+
+---
+
+## Logos (optional)
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; align-items: center;">
+  <img src="assets/img/AHP-logo.png" alt="AHP" width="120" style="padding:10px;" />
+  <img src="assets/img/IECL-logo.png" alt="IECL" width="120" style="padding:10px;" />
+  <img src="assets/img/Loria-logo.jpg" alt="Loria" width="120" style="padding:10px;" />
+  <img src="assets/img/CNRS-logo.png" alt="CNRS" width="80" style="padding:10px;" />
+  <img src="assets/img/UL-logo.png" alt="UL" width="100" style="padding:10px;" />
+</div>
