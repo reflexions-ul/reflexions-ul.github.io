@@ -37,7 +37,7 @@ We shall meet **six Friday afternoons during the first semester of 2026**. Below
 
 ---
 
-## Session 1 — IECL — _Friday, March 6, 2026_
+## Session 1 — IECL — _Friday, February 6, 2026_
 
 ### Talk
 
@@ -48,6 +48,8 @@ We shall meet **six Friday afternoons during the first semester of 2026**. Below
 
 
 ### Practice Session
+
+**Title: _Introduction à l’assistant de preuve Lean par la pratique_**
 
 Introduction à l’assistant de preuve Lean par la pratique animée par Patrick Massot.
 
