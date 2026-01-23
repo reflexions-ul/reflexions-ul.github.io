@@ -44,14 +44,14 @@ We shall meet **six Friday afternoons during the first semester of 2026**. Below
 **Speaker:** [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (Laboratoire de mathématique d’Orsay)  
 **Title: _Pourquoi raconter des maths aux ordinateurs ?_**
 
-**Abstract:** _TBA_
+**Abstract:** Dans cet exposé j’expliquerai ce que signifie « expliquer des mathématiques à un ordinateur » et pourquoi je trouve cela intéressant et utile. Je montrerai à quoi ressemble concrètement l’utilisation d’un logiciel permettant d’encoder informatiquement des définitions, énoncés et démonstrations. Je présenterai les applications de ces techniques pour vérifier, expliquer, enseigner ou créer des mathématiques. Je mentionnerai des exemples de projets non-triviaux dans ce domaine et j’évoquerai brièvement les liens avec l’IA. Il n’y a aucun pré-requis.
 
 
 ### Practice Session
 
 **Title: _Introduction à l’assistant de preuve Lean par la pratique_**
 
-Introduction à l’assistant de preuve Lean par la pratique animée par Patrick Massot.
+Le logiciel Lean permet de parler de maths de tout niveau à son ordinateur. Il peut aussi servir à enseigner le raisonnement mathématique rigoureux, par exemple en L1. Ce TP sera une introduction à l’utilisation de Lean en pratique. Il n’y a aucun pré-requis si ce n’est de venir avec un ordinateur portable.
 
 **Location:** IECL (details TBA)
 
