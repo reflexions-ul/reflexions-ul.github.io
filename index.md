@@ -39,21 +39,22 @@ We shall meet **six Friday afternoons during the first semester of 2026**. Below
 
 ## Session 1 — IECL — _Friday, February 6, 2026_
 
-### Talk
+### 13h30-14h45: Talk
 
-**Speaker:** [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (Laboratoire de mathématique d’Orsay)  
+**Speaker:** [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (Laboratoire de mathématique d’Orsay) 
+
 **Title: _Pourquoi raconter des maths aux ordinateurs ?_**
 
 **Abstract:** Dans cet exposé j’expliquerai ce que signifie « expliquer des mathématiques à un ordinateur » et pourquoi je trouve cela intéressant et utile. Je montrerai à quoi ressemble concrètement l’utilisation d’un logiciel permettant d’encoder informatiquement des définitions, énoncés et démonstrations. Je présenterai les applications de ces techniques pour vérifier, expliquer, enseigner ou créer des mathématiques. Je mentionnerai des exemples de projets non-triviaux dans ce domaine et j’évoquerai brièvement les liens avec l’IA. Il n’y a aucun pré-requis.
 
 
-### Practice Session
+### 15h00-17h30: Practice Session
 
 **Title: _Introduction à l’assistant de preuve Lean par la pratique_**
 
 Le logiciel Lean permet de parler de maths de tout niveau à son ordinateur. Il peut aussi servir à enseigner le raisonnement mathématique rigoureux, par exemple en L1. Ce TP sera une introduction à l’utilisation de Lean en pratique. Il n’y a aucun pré-requis si ce n’est de venir avec un ordinateur portable.
 
-**Location:** IECL (details TBA)
+**Location:** Salle de Conférence de l'IECL, Faculté des Sciences et technologie Campus, Boulevard des Aiguillettes, 54506 Vandoeuvre-lès-Nancy [plan d'accès](https://iecl.univ-lorraine.fr/plan-dacces/).
 
 <div style="margin: 50px;"></div>
 
@@ -63,7 +64,8 @@ Le logiciel Lean permet de parler de maths de tout niveau à son ordinateur. Il 
 
 ### Talk
 
-**Speaker:** [Sophie Tourret](https://members.loria.fr/sophie.tourret/) (Loria)  
+**Speaker:** [Sophie Tourret](https://members.loria.fr/sophie.tourret/) (Loria)
+
 **Title: _L'automatisation dans les assistants de preuve_**
 
 **Abstract:** _TBA_
@@ -84,12 +86,14 @@ The goal of the practice session is to initiate formalization projects with advi
 ### Talk
 
 **First Speaker:** [Antoine Chambert-Loir](https://webusers.imj-prg.fr/~antoine.chambert-loir/index.xhtml) (Institut de mathématique de Jussieu – Paris Rive Gauche)  
+
 **Title:** _TBA_
 
 **Abstract:** _TBA_
 
 
 **Second Speaker:** [Yacin Hamami](https://www.yacinhamami.com/) (Archives Henri-Poincaré)  
+
 **Title: _Philosophical conceptions of mathematical rigor_**
 
 **Abstract:** _TBA_
@@ -109,11 +113,13 @@ Continuation of the previous practice session.
 ### Talks
 
 **First Speaker:** [Baptiste Mélès](http://baptiste.meles.free.fr/) (Archives Henri-Poincaré) 
+
 **Title:** _TBA_
 
 **Abstract:** _TBA_
 
-**Second Speaker:** [Philippe de Groote](https://members.loria.fr/PdeGroote/) ((Loria))
+**Second Speaker:** [Philippe de Groote](https://members.loria.fr/PdeGroote/) (Loria)
+
 **Title:** _TBA_
 
 **Abstract:** _TBA_
