@@ -9,21 +9,24 @@ layout: page
 
 # Program
 
-## Session 1 — IECL — _Friday, March 6, 2026_
+## Session 1 — IECL — _Friday, February 6, 2026_
 
-### Talk
+### 13h30-14h45: Talk
 
-**Speaker:** Patrick Massot (Laboratoire de mathématique d’Orsay)  
+**Speaker:** [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (Laboratoire de mathématique d’Orsay) 
+
 **Title: _Pourquoi raconter des maths aux ordinateurs ?_**
 
-**Abstract:** _TBA_
+**Abstract:** Dans cet exposé j’expliquerai ce que signifie « expliquer des mathématiques à un ordinateur » et pourquoi je trouve cela intéressant et utile. Je montrerai à quoi ressemble concrètement l’utilisation d’un logiciel permettant d’encoder informatiquement des définitions, énoncés et démonstrations. Je présenterai les applications de ces techniques pour vérifier, expliquer, enseigner ou créer des mathématiques. Je mentionnerai des exemples de projets non-triviaux dans ce domaine et j’évoquerai brièvement les liens avec l’IA. Il n’y a aucun pré-requis.
 
 
-### Practice Session
+### 15h00-17h30: Practice Session
 
-Introduction à l’assistant de preuve Lean par la pratique animée par Patrick Massot.
+**Title: _Introduction à l’assistant de preuve Lean par la pratique_**
 
-**Location:** IECL (details TBA)
+Le logiciel Lean permet de parler de maths de tout niveau à son ordinateur. Il peut aussi servir à enseigner le raisonnement mathématique rigoureux, par exemple en L1. Ce TP sera une introduction à l’utilisation de Lean en pratique. Il n’y a aucun pré-requis si ce n’est de venir avec un ordinateur portable.
+
+**Location:** Salle de Conférence de l'IECL, Faculté des Sciences et technologie Campus, Boulevard des Aiguillettes, 54506 Vandoeuvre-lès-Nancy [plan d'accès](https://iecl.univ-lorraine.fr/plan-dacces/).
 
 <div style="margin: 50px;"></div>
 
@@ -33,8 +36,9 @@ Introduction à l’assistant de preuve Lean par la pratique animée par Patri
 
 ### Talk
 
-**Speaker:** Sophie Tourret (Loria)  
-**Title:** _L'automatisation dans les assistants de preuve_
+**Speaker:** [Sophie Tourret](https://members.loria.fr/sophie.tourret/) (Loria)
+
+**Title: _L'automatisation dans les assistants de preuve_**
 
 **Abstract:** _TBA_
 
@@ -53,14 +57,16 @@ The goal of the practice session is to initiate formalization projects with advi
 
 ### Talk
 
-**First Speaker:** Antoine Chambert-Loir (Institut de mathématique de Jussieu – Paris Rive Gauche)  
+**First Speaker:** [Antoine Chambert-Loir](https://webusers.imj-prg.fr/~antoine.chambert-loir/index.xhtml) (Institut de mathématique de Jussieu – Paris Rive Gauche)  
+
 **Title:** _TBA_
 
 **Abstract:** _TBA_
 
 
-**Second Speaker:** Yacin Hamami (Archives Henri-Poincaré)  
-**Title:** _Philosophical conceptions of mathematical rigor_
+**Second Speaker:** [Yacin Hamami](https://www.yacinhamami.com/) (Archives Henri-Poincaré)  
+
+**Title: _Philosophical conceptions of mathematical rigor_**
 
 **Abstract:** _TBA_
 
@@ -78,12 +84,14 @@ Continuation of the previous practice session.
 
 ### Talks
 
-**First Speaker:** [Baptiste Mélès (Archives Henri-Poincaré)](http://baptiste.meles.free.fr/)  
+**First Speaker:** [Baptiste Mélès](http://baptiste.meles.free.fr/) (Archives Henri-Poincaré) 
+
 **Title:** _TBA_
 
 **Abstract:** _TBA_
 
-**Second Speaker:** [Philippe de Groote (Loria)](https://members.loria.fr/PdeGroote/)
+**Second Speaker:** [Philippe de Groote](https://members.loria.fr/PdeGroote/) (Loria)
+
 **Title:** _TBA_
 
 **Abstract:** _TBA_
@@ -109,24 +117,33 @@ Continuation of the previous practice session.
 ---
 
 
+# Participation
+
+The seminar is **open to everyone** (students, PhD candidates, researchers, colleagues from neighboring disciplines, etc.).
+
+
+# Contact
+
+For any question, please write to the organizers.
+
 # Organizers
 
-- [Andrew Arana](https://aarana.github.io/) (Université de Lorraine, Archives Henri Poincaré)
-- [Valeria Giardino](https://sites.google.com/view/valeriagiardino/home?pli=1) (CNRS, Institut Jean Nicod)
-- [Yacin Hamami](https://www.yacinhamami.com/) (CNRS, Archives Henri Poincaré)
-- [Francesca Poggiolesi](https://sites.google.com/site/poggiolesi/home) (CNRS, Institut d'Histoire et de Philosophie des Sciences et des Techniques)
+- [Yacin Hamami](https://www.yacinhamami.com/) (AHP)
+- [Alexandre Afgoustidis](https://afgoustidis.perso.math.cnrs.fr/) (IECL)
+- [Alain Genestier](https://iecl.univ-lorraine.fr/membre-iecl/genestier-alain/) (IECL)
+- [Sophie Tourret](https://members.loria.fr/sophie.tourret/) (Loria)
+
+<div style="margin: 40px;"></div>
 
 # Acknowledgement and Support
 
-The workshop is funded by by the [Institut d'Histoire et de Philosophie des Sciences et des Techniques (IHPST)](https://ihpst.pantheonsorbonne.fr/en), the [Institut Jean Nicod (IJN)](http://www.institutnicod.org/?lang=en) and the [Archives Henri Poincaré (AHP)](https://poincare.univ-lorraine.fr/).
+_**Reflexions**_ is funded by the [Institut Élie Cartan de Lorraine (IECL)](https://iecl.univ-lorraine.fr/), the [Archives Henri-Poincaré (AHP)](https://poincare.univ-lorraine.fr/), and the [Lorraine Research Laboratory in Computer Science and its Applications (Loria)](https://www.loria.fr/en/).
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; align-items: center;">
-  <img src="/assets/img/CNRS-logo.png" alt="CNRS" width="80" style="padding:10px;" />
-  <img src="/assets/img/AHP-logo.png" alt="AHP" width="100" style="padding:10px;" />
-  <img src="/assets/img/UL-logo.png" alt="UL" width="100" style="padding:10px;" />
-  <img src="/assets/img/IHPST-logo.jpg" alt="IHPST" width="100" style="padding:10px;" />
-  </div>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; align-items: center;">
-  <img src="/assets/img/PantheonSorbonne-logo.png" alt="Pantheon Sorbonne" width="200" style="padding:10px;" />
-  <img src="/assets/img/IJN-logo.jpg" alt="IJN" width="100" style="padding:10px;" />
-  <img src="/assets/img/ENS-logo.png" alt="ENS" width="100" style="padding:10px;" />
+  <img src="assets/img/AHP-logo.png" alt="AHP" width="120" style="padding:10px;" />
+  <img src="assets/img/IECL-logo.png" alt="IECL" width="120" style="padding:10px;" />
+  <img src="assets/img/Loria-logo.jpg" alt="Loria" width="120" style="padding:10px;" />
+  <img src="assets/img/CNRS-logo.png" alt="CNRS" width="80" style="padding:10px;" />
+  <img src="assets/img/UL-logo.png" alt="UL" width="100" style="padding:10px;" />
+</div>
+
