@@ -60,7 +60,7 @@ Cette session pratique se veut le prolongement de la précédente et proposera a
 
 ---
 
-## Session 3 — — IECL — _Friday, March 20, 2026_
+## Session 3 — IECL — _Friday, March 20, 2026_
 
 ### Talk
 
