@@ -50,7 +50,7 @@ Dans cette présentation, je vous exposerai plusieurs techniques de preuve autom
 
 ### Practice Session “Math in LEAN”
 
-**Tutors:** [Vincent Trelat](https://vtrelat.github.io/) and [Ghilain Bergeron](https://github.com/Mesabloo) (Loria)
+**Tutors:** [Vincent Trélat](https://vtrelat.github.io/) and [Ghilain Bergeron](https://github.com/Mesabloo) (Loria)
 
 Cette session pratique se veut le prolongement de la précédente et proposera aux participants de se plonger dans l'ouvrage **_Mathematics in Lean_** de Jeremy Avigad and Patrick Massot (disponible en ligne [ici](https://leanprover-community.github.io/mathematics_in_lean/index.html)), avec l'appuie d'utilisateurs Lean expérimentés. Il vous sera aussi possible de reprendre le tutoriel de Patrick Massot si vous avez manqué la session précédente ou que vous souhaitez le finir.
 
