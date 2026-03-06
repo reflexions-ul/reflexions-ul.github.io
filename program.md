@@ -40,7 +40,7 @@ Le logiciel Lean permet de parler de maths de tout niveau à son ordinateur. Il 
 
 **Title: _L'automatisation dans les assistants de preuve_**
 
-**Abstract:** Pour faire prouver des théorèmes à un ordinateur, il y a deux approche possible : 
+**Abstract:** Pour faire prouver des théorèmes à un ordinateur, il y a deux approche possible :
 
 - la preuve interactive, où l'humain décris les théorèmes et les étapes des preuves à un assistant à la preuve, et
 - la preuve automatique, où l'humain fournis simplement les théorèmes encodés sous formes de formules logique, et laisse le prouveur raisonner à sa façon.
@@ -48,7 +48,7 @@ Le logiciel Lean permet de parler de maths de tout niveau à son ordinateur. Il 
 Dans cette présentation, je vous exposerai plusieurs techniques de preuve automatique et je vous parlerai de leurs usages dans les assistants de preuve.
 
 
-### Practice Session “Math in LEAN” 
+### Practice Session “Math in LEAN”
 
 **Tutors:** [Vincent Trelat](https://vtrelat.github.io/) and [Ghilain Bergeron](https://github.com/Mesabloo) (Loria)
 
