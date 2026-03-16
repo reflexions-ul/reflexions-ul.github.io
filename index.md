@@ -90,26 +90,36 @@ Cette session pratique se veut le prolongement de la précédente et proposera a
 
 ## Session 3 — IECL — _Friday, March 20, 2026_
 
-### Talk
+### Talks
 
-**First Speaker:** [Antoine Chambert-Loir](https://webusers.imj-prg.fr/~antoine.chambert-loir/index.xhtml) (Institut de mathématique de Jussieu – Paris Rive Gauche)  
+**First Speaker:** [Antoine Chambert-Loir](https://webusers.imj-prg.fr/~antoine.chambert-loir/index.xhtml) (Institut de mathématique de Jussieu – Paris Rive Gauche, Université Paris Cité)  
 
-**Title:** _TBA_
+**Title: _Retour d'expérience en mathématiques formalisées_**
 
-**Abstract:** _TBA_
+**Abstract:** Pourquoi vouloir faire des preuves formelles ? Qu'apporte l'ordinateur ? Et de quelles preuves parlerait-on ?
+À partir de mon expérience des cinq dernières années, qui concerne essentiellement des questions d'algèbre,
+j'essayerai de présenter mes bouts de réponse à ces questions.
 
 
-**Second Speaker:** [Yacin Hamami](https://www.yacinhamami.com/) (Archives Henri-Poincaré)  
+**Second Speaker:** [Yacin Hamami](https://www.yacinhamami.com/) (Archives Henri-Poincaré, CNRS)  
 
-**Title: _Philosophical conceptions of mathematical rigor_**
+**Title: _Démonstrations, scripts, et preuves formelles :
+Quels liens entre l’idéal et la pratique de la
+démonstration ?_**
 
-**Abstract:** _TBA_
+**Abstract:** La formalisation des mathématiques par les assistants de preuve nous confronte à trois types d'objets aux statuts distincts : les démonstrations telles qu'elles figurent dans la pratique ordinaire, adressées à des lecteurs humains qu'elles visent à convaincre et à faire comprendre ; les preuves formelles, objets logiques entièrement explicites que la machine vérifie mécaniquement mais qui restent le plus souvent illisibles pour un lecteur humain ; et entre les deux, les scripts de code rédigés dans des assistants comme Lean, Coq ou Isabelle—objets hybrides qui portent encore la marque des intentions de celui qui les écrit, tout en étant destinés à guider la machine vers une vérification formelle.
 
-### Practice Session “Math in LEAN” 
+Quelle est la nature de ces trois objets, et quelles relations entretiennent-ils entre eux ? Cette question a fait l'objet de débats intenses en philosophie des mathématiques ces dernières années. Au cœur de ces débats se trouve la relation entre les démonstrations dans la pratique et l'idéal de preuve formelle, et en particulier la question de la rigueur mathématique qu'elle soulève. Doit-on concevoir la rigueur des démonstrations en pratique comme reposant, en dernière instance, sur la notion de preuve formelle—une démonstration étant rigoureuse lorsqu'elle est, en principe, formalisable ? Ou doit-on au contraire concevoir la rigueur en pratique comme relativement indépendante de cet idéal, obéissant à des normes et des standards qui lui sont propres ?
 
-Continuation of the previous practice session.
+Dans cet exposé, je présenterai quelques éléments clés de ces débats ainsi que les principales réponses philosophiques qui ont été proposées.
 
-**Location:** TBA
+### Practice Session “Math in LEAN”
+
+**Tutors:** [Vincent Trélat](https://vtrelat.github.io/) and [Ghilain Bergeron](https://github.com/Mesabloo) (Loria)
+
+Cette session pratique se veut le prolongement de la précédente et proposera aux participants de se plonger dans l'ouvrage **_Mathematics in Lean_** de Jeremy Avigad and Patrick Massot (disponible en ligne [ici](https://leanprover-community.github.io/mathematics_in_lean/index.html)), avec l'appuie d'utilisateurs Lean expérimentés. 
+
+**Location:** Salle de Conférence de l'IECL, Faculté des Sciences et technologie Campus, Boulevard des Aiguillettes, 54506 Vandoeuvre-lès-Nancy [plan d'accès](https://iecl.univ-lorraine.fr/plan-dacces/).
 
 <div style="margin: 50px;"></div>
 
