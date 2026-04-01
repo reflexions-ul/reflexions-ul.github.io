@@ -97,8 +97,7 @@ Cette session pratique se veut le prolongement de la précédente et proposera a
 **Title: _Retour d'expérience en mathématiques formalisées_**
 
 **Abstract:** Pourquoi vouloir faire des preuves formelles ? Qu'apporte l'ordinateur ? Et de quelles preuves parlerait-on ?
-À partir de mon expérience des cinq dernières années, qui concerne essentiellement des questions d'algèbre,
-j'essayerai de présenter mes bouts de réponse à ces questions.
+À partir de mon expérience des cinq dernières années, qui concerne essentiellement des questions d'algèbre, j'essayerai de présenter mes bouts de réponse à ces questions.
 
 
 **Second Speaker:** [Yacin Hamami](https://www.yacinhamami.com/) (Archives Henri-Poincaré, CNRS)  
@@ -125,25 +124,25 @@ Cette session pratique se veut le prolongement de la précédente et proposera a
 
 ---
 
-## Session 4 — TBA - _Friday, April 3, 2026_
+## Session 4 — Archives Henri Poincaré — _Friday, April 3, 2026_
 
-### Talks
+### 14h00-16h30: Talks
 
-**First Speaker:** [Baptiste Mélès](http://baptiste.meles.free.fr/) (Archives Henri-Poincaré) 
+**First Speaker:** [Baptiste Mélès](http://baptiste.meles.free.fr/) (Archives Henri-Poincaré, CNRS) 
 
-**Title:** _TBA_
+**Title:_La linguistique des assistants à la démonstration_**
 
-**Abstract:** _TBA_
+**Abstract:** La linguistique ne semble rien avoir à nous apprendre sur les démonstrations formelles des assistants à la démonstration : ne connaît-on pas d'entrée de jeu en toute transparence tous les constituants de ce langage — à savoir son alphabet, son lexique, sa syntaxe et sa sémantique ? L'approche linguistique nous permettra pourtant de révéler quelques constituants cachés de ces langages formels : on distinguera dans l'alphabet une graphétique et une graphématique, on montrera la structuration différentielle du lexique, on étudiera la morphologie sous la syntaxe, et on mettra au jour la pragmatique qui recouvre la sémantique : autant de caractéristiques qui rapprochent ces langages formels des langues humaines.
 
 **Second Speaker:** [Philippe de Groote](https://members.loria.fr/PdeGroote/) (Loria)
 
-**Title:** _TBA_
+**Title: _Discours et démonstrations_**
 
-**Abstract:** _TBA_
+**Abstract:** Dans cet exposé, nous nous pencherons sur la structure linguistique des « mathématiques naturelles », c'est-à-dire les mathématiques telles qu'exprimées par les mathématiciens et mathématiciennes dans leurs écrits scientifiques. Nous nous pencherons plus particulièrement sur le cas des démonstrations mathématiques et expliquerons pourquoi celles-ci doivent être considérées comme des discours. Nous montrerons à l'aide de quelques exemples comment l'étude de la structure discursive des démonstrations peut suggérer de nouvelles manières de formaliser celles-ci.
 
-### Round Table
+### 16h30-17h30: Discussion générale
 
-**Location:** _TBA_
+**Location:** salle de réunion 2 au rez-de-chaussée du bâtiment des Archives Henri Poincaré, 91 avenue de la Libération, 54001 Nancy [plan d'accès](https://poincare.univ-lorraine.fr/fr/contact-et-acces). Lorsque vous entrez dans le bâtiment, traversez le hall principal ; la salle se situe au fond du couloir sur la gauche.
 
 <div style="margin: 50px;"></div>
 
