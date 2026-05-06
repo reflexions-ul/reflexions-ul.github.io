@@ -148,7 +148,17 @@ Cette session pratique se veut le prolongement de la précédente et proposera a
 
 ---
 
-## Session 5 — TBA - _TBA_
+## Session 5 — Loria — _Friday, May 29, 2026_
+
+### 13h30-14h45: Talk
+
+**Speaker:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (Inria, Laboratoire Méthodes Formelles) 
+
+**Title: _TBA_**
+
+**Abstract:** TBA
+
+**Location:** Loria
 
 <div style="margin: 50px;"></div>
 
