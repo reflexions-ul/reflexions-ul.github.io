@@ -154,9 +154,9 @@ Cette session pratique se veut le prolongement de la précédente et proposera a
 
 **Speaker:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (Inria, Laboratoire Méthodes Formelles) 
 
-**Title: _TBA_**
+**Title: _Interopérabilité des systèmes de preuve_**
 
-**Abstract:** TBA
+**Abstract:** L'interopérabilité est une propriété éminemment souhaitable mais peu développée dans les systèmes de preuve formelle. Après un bref survol historique des travaux passés sur l’interopérabilité des systèmes de preuve, je présenterai l’approche fondée sur l’utilisation du cadre logique Dedukti comme langage pivot pour les preuves. Je montrerai notamment comment représenter dans Dedukti les preuves de différentes logiques de manière modulaire. Nous verrons aussi que, pour rendre deux systèmes vraiment interopérables, il est nécessaire de montrer que les définitions utilisées dans ces deux systèmes sont bien équivalentes. Je détaillerai ensuite le cas particulier de la traduction des bibliothèques de HOL-Light, qui est un système basé sur la logique classique d’ordre supérieur avec choix, vers Rocq, qui est un système basé sur le calcul des constructions inductives. Nous verrons notamment que, dans ce cas, l'équivalence des définitions pour les types inductifs et les fonctions récursives peut souvent être montrée automatiquement.
 
 **Location:** Loria
 
