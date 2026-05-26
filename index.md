@@ -164,7 +164,18 @@ Cette session pratique se veut le prolongement de la précédente et proposera a
 
 ---
 
-## Session 6 — TBA - _TBA_
+## Session 6 — ONLINE! - _Friday, June 19, 2026_
+
+### 16h00-17h30: Talk
+
+**Speaker:** [Emily Riehl](https://emilyriehl.github.io/) (Johns Hopkins University) 
+
+**Title: _TBA_**
+
+**Abstract:** TBA
+
+**Location:** ONLINE
+
 
 <div style="margin: 50px;"></div>
 
