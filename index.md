@@ -170,9 +170,12 @@ Cette session pratique se veut le prolongement de la précédente et proposera a
 
 **Speaker:** [Emily Riehl](https://emilyriehl.github.io/) (Johns Hopkins University) 
 
-**Title: _TBA_**
+**Title: _A reintroduction to proofs_**
 
-**Abstract:** TBA
+**Abstract:** This talk proposes a shift in the implicit foundations of mathematics from set theory and logic to dependent type theory (where the primitive notion of “type” replaces both sets and propositions). While these new foundations are more complex, we contend they make it easier for students to learn to write correct proofs and for professionals to communicate precise mathematical ideas to other humans or to a computer.
+
+Here the "computer" refers to a computer proof assistant. This talk will advertise a Lean game I made in Fall 2025 while teaching a first year seminar course along these lines available [here](https://adam.math.hhu.de/#/g/emilyriehl/reintroductiontoproofs).
+
 
 **Location:** ONLINE
 
