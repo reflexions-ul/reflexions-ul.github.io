@@ -148,7 +148,7 @@ Cette session pratique se veut le prolongement de la précédente et proposera a
 
 ---
 
-## Session 5 — Loria — _Friday, May 29, 2026_
+## Session 5 — IECL — _Friday, May 29, 2026_
 
 ### 13h30-14h45: Talk
 
@@ -158,7 +158,7 @@ Cette session pratique se veut le prolongement de la précédente et proposera a
 
 **Abstract:** L'interopérabilité est une propriété éminemment souhaitable mais peu développée dans les systèmes de preuve formelle. Après un bref survol historique des travaux passés sur l’interopérabilité des systèmes de preuve, je présenterai l’approche fondée sur l’utilisation du cadre logique Dedukti comme langage pivot pour les preuves. Je montrerai notamment comment représenter dans Dedukti les preuves de différentes logiques de manière modulaire. Nous verrons aussi que, pour rendre deux systèmes vraiment interopérables, il est nécessaire de montrer que les définitions utilisées dans ces deux systèmes sont bien équivalentes. Je détaillerai ensuite le cas particulier de la traduction des bibliothèques de HOL-Light, qui est un système basé sur la logique classique d’ordre supérieur avec choix, vers Rocq, qui est un système basé sur le calcul des constructions inductives. Nous verrons notamment que, dans ce cas, l'équivalence des définitions pour les types inductifs et les fonctions récursives peut souvent être montrée automatiquement.
 
-**Location:** Loria
+**Location:** Salle de Conférence de l'IECL, Faculté des Sciences et technologie Campus, Boulevard des Aiguillettes, 54506 Vandoeuvre-lès-Nancy [plan d'accès](https://iecl.univ-lorraine.fr/plan-dacces/).
 
 <div style="margin: 50px;"></div>
 
