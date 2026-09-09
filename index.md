@@ -204,9 +204,9 @@ La méthode de Héron en Lean : Un calculateur de racine carrée certifié / Her
 **Abstract:** Dans cet exposé nous partagerons :
 
 * un retour d’expérience d’enseignement de la démonstration en mathématiques utilisant le logiciel assistant de preuve Deaduction lors de l’UE optionnelle du S2 de la L1 mathématiques à Metz. 
-Lien vers le logiciel : https://perso.imj-prg.fr/frederic-leroux/d%E2%88%83%E2%88%80duction/
+Lien vers le logiciel [ici](https://perso.imj-prg.fr/frederic-leroux/d%E2%88%83%E2%88%80duction/),
 
-* les développements et nouveautés autour de logiciels assistant de preuve employés dans un but pédagogique et didactique en début de cursus universitaire (retours de la participation au colloque PAT 2026 https://pat2026.irif.fr/ ) 
+* les développements et nouveautés autour de logiciels assistant de preuve employés dans un but pédagogique et didactique en début de cursus universitaire (retours de la participation au colloque [PAT 2026](https://pat2026.irif.fr/)). 
 
 **Location:** Salle de Conférence de l'IECL, Faculté des Sciences et technologie Campus, Boulevard des Aiguillettes, 54506 Vandoeuvre-lès-Nancy [plan d'accès](https://iecl.univ-lorraine.fr/plan-dacces/).
 
