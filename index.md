@@ -244,3 +244,5 @@ _**Reflexions**_ is funded by the [Institut Élie Cartan de Lorraine (IECL)](htt
   <img src="assets/img/CNRS-logo.png" alt="CNRS" width="80" style="padding:10px;" />
   <img src="assets/img/UL-logo.png" alt="UL" width="100" style="padding:10px;" />
 </div>
+
+<small>Header photo: Nicolas Cornet, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr">CC BY-SA 4.0</a></small>
